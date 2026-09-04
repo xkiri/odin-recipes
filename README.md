@@ -1,0 +1,1 @@
+This project is to create a website about recipes I enjoy. This is also a recap of everything that I have learned so far during this curriculum.
